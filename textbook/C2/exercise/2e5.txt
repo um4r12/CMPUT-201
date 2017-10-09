@@ -1,0 +1,11 @@
+Which of the following are not legal C identifiers?
+	(a) 100_bottles
+	(b) _100_bottles
+   	(c) one__hundred__bottles
+  	(d) bottles_by_the_hundred_
+
+Answers: a
+
+The only condition for identifiers are that they must begin with a
+letter or underscore. 
+Identifiers can only contain letters, digits and underscores.
